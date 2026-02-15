@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(chmod:*)",
+      "WebSearch",
+      "Bash(tree:*)",
+      "Bash(curl:*)",
+      "Bash(python3:*)",
+      "Bash(wc:*)",
+      "Bash(grep:*)",
+      "Bash(python -m pytest:*)",
+      "Bash(python -c:*)",
+      "Bash(sort:*)",
+      "Bash(pytest:*)",
+      "Skill(driver-navigator-tdd)",
+      "Bash(python:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
